@@ -4,10 +4,10 @@
   <style name="Link" foreground="#6c71c4"/>
   <style name="Selection" background="#434c5e"/>
   <style name="LineNumber" foreground="#4c566a" background="#2e3440" bold="true"/>
-  <style name="SearchResult" background="#073642"/>
-  <style name="SearchScope" background="#073642"/>
-  <style name="Parentheses" foreground="#dc322f" background="#586e75" bold="true"/>
-  <style name="ParenthesesMismatch" foreground="#fdff2c" background="#d33682" bold="true"/>
+  <style name="SearchResult" background="#2e3440"/>
+  <style name="SearchScope" background="#2e3440"/>
+  <style name="Parentheses" foreground="#bf616a" background="#2e3440" bold="true"/>
+  <style name="ParenthesesMismatch" foreground="#d8dee9" background="#bf616a" bold="true"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
   <style name="CurrentLine" background="#124252"/>
   <style name="CurrentLineNumber" foreground="#839496" bold="true"/>
@@ -32,17 +32,17 @@
   <style name="Doxygen.Comment" foreground="#4c566a" italic="true"/>
   <style name="Doxygen.Tag" foreground="#4c566a" bold="true"/>
   <style name="VisualWhitespace" foreground="#268bd2"/>
-  <style name="QmlLocalId" foreground="#5e81ac" italic="true"/>
-  <style name="QmlExternalId" foreground="#2aa198" italic="true"/>
-  <style name="QmlTypeId" foreground="#d08770"/>
-  <style name="QmlRootObjectProperty" foreground="#5e81ac" italic="true"/>
-  <style name="QmlScopeObjectProperty" foreground="#5e81ac" italic="true"/>
+  <style name="QmlLocalId" foreground="#88c0d0" italic="true"/>
+  <style name="QmlExternalId" foreground="#81a1c1" bold="true" italic="true"/>
+  <style name="QmlTypeId" foreground="#8fbcbb"/>
+  <style name="QmlRootObjectProperty" foreground="#81a1c1" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#81a1c1" italic="true"/>
   <style name="QmlExternalObjectProperty" foreground="#88c0d0" italic="true"/>
   <style name="JsScopeVar" foreground="#b48ead" italic="true"/>
-  <style name="JsImportVar" foreground="#bf616a" italic="true"/>
+  <style name="JsImportVar" foreground="#88c0d0" italic="true"/>
   <style name="JsGlobalVar" foreground="#81a1c1"/>
-  <style name="QmlStateName" foreground="#5e81ac" italic="true"/>
-  <style name="Binding" foreground="#bf616a"/>
+  <style name="QmlStateName" foreground="#81a1c1" italic="true"/>
+  <style name="Binding" foreground="#d8dee9" underlineColor="#000000"/>
   <style name="DisabledCode" foreground="#4c566a" background="#2e3440"/>
   <style name="AddedLine" foreground="#709d06"/>
   <style name="RemovedLine" foreground="#dc322f"/>
